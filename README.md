@@ -4,9 +4,9 @@ A clean, static portfolio site for Muztahidur Rahman Nihal.
 
 ## Live portfolio
 
-Target live URL: <https://muztahidur-rn.github.io/>
+Live URL: <https://muztahidur-rn.github.io/>
 
-This URL becomes live after this folder is pushed to the current GitHub account repository named `Muztahidur-RN.github.io`.
+Repository: <https://github.com/Muztahidur-RN/Muztahidur-RN.github.io>
 
 ## Files
 
